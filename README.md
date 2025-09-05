@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Vitor  
 
-<!--
-**vihstrat/vihstrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Ciências da Computação (5º semestre)**  
+⚡ Interessado em **Infraestrutura, Redes e DevOps**  
+🐧 Explorando o mundo do **Linux**, automação e boas práticas em TI  
+🚀 Sempre aprendendo e compartilhando conhecimento  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+- 🐧 Linux (Ubuntu, RHEL, Oracle Linux)  
+- ☁️ Conceitos de DevOps & Cloud  
+- 🔧 Docker | Kubernetes | Redes  
+- 📚 Sempre buscando aprender mais  
+
+---
+
+## 📈 Estatísticas do GitHub
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/feed/)  
+- ✉️ Contato: vistratikopoulos27@gmail.com 
+
+---
+⭐ Sempre aberto a aprender coisas novas e colaborar em projetos interessantes!
