@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Vitor  
+## 👋 Olá, eu sou o Vitor Stratikopoulos  
 
 💻 Estudante de **Ciências da Computação (5º semestre)**  
 ⚡ Interessado em **Infraestrutura, Redes e DevOps**  
