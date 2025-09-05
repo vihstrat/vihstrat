@@ -16,8 +16,8 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-![Vitor's GitHub stats](https://github.com/vihstrat/vihstrat/blob/main/README.md)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/vihstrat/vihstrat/blob/main/README.md&layout=compact&theme=tokyonight)
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihtrat&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vihstrat&layout=compact&theme=tokyonight)
 
 ---
 
