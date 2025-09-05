@@ -15,12 +15,6 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihtrat&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vihstrat&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/feed/)  
 - ✉️ Contato: vistratikopoulos27@gmail.com 
